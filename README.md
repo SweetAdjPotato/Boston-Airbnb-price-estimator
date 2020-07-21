@@ -8,8 +8,8 @@
 
 ## Installation <a name="installation"></a>
 
-Python versions 3.7
-Library and packages: numpy, pandas, matplotlib, sklearn, seaborn, mpl_toolkits.basemap
+1. Python versions 3.7
+1. Library and packages: numpy, pandas, matplotlib, sklearn, seaborn, mpl_toolkits.basemap
 
 ## Project Motivation<a name="motivation"></a>
 
