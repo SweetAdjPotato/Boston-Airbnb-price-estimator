@@ -22,7 +22,11 @@ For this project, I was interested in using Boston Airbnb data from 2019 to expl
 ## File Descriptions <a name="files"></a>
 
 Data are in the data folder.
-Only one notebook and all the functions needed are written in the notebook along with the code.  
+There are two notebooks in the folder. 
+1. Boston_Airbnb_price_estimator.ipynb, which is the draft notebook;
+2. Boston_Airbnb_price_estimator-updated.ipynb, which is the restructured notebook following the CRISP-DM process.
+
+All the functions needed are written in the notebook along with the code.  
 
 ## Results<a name="results"></a>
 
