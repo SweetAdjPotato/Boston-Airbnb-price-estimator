@@ -4,7 +4,9 @@
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Licensing](#licensing)
+6. [Acknowledgements](#Acknowledgements)
+
 
 ## Installation <a name="installation"></a>
 
@@ -32,11 +34,11 @@ All the functions needed are written in the notebook along with the code.
 
 The main findings of the code can be found at the post available [here](https://medium.com/@zhaoyunma/boston-airbnb-listing-price-estimator-ea34e5370395).
 
-## License
+## License<a name="licensing"></a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Acknowledgements<a name="licensing"></a>
+## Acknowledgements<a name="Acknowledgements"></a>
 
 Acknowledge to Airbnb for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston).  Otherwise, feel free to use the code here as you would like! 
 
