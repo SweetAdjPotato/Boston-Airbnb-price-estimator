@@ -32,10 +32,14 @@ All the functions needed are written in the notebook along with the code.
 
 The main findings of the code can be found at the post available [here](https://medium.com/@zhaoyunma/boston-airbnb-listing-price-estimator-ea34e5370395).
 
-## Licensing, Authors, and Acknowledgements<a name="licensing"></a>
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Acknowledgements<a name="licensing"></a>
 
 Acknowledge to Airbnb for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston).  Otherwise, feel free to use the code here as you would like! 
 
 Acknowledge to a few kenels I studied on Kaggle: [[1]](https://www.kaggle.com/kostyabahshetsyan/boston-airbnb-visualization), [[2]](https://www.kaggle.com/krystal96/ridge-regression), [[3]](https://www.kaggle.com/afamos/airbnb-price-estimator), [[4]](https://www.kaggle.com/residentmario/modeling-prices#Classification).
 
-mpl_toolkits.basemap License: MIT. The license can be found im [here](https://anaconda.org/conda-forge/basemap).
+
